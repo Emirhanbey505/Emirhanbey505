@@ -1,11 +1,11 @@
 ### Hi there, I'm Emirhanbey505 👋
 
-🎯 Aspiring Software Developer | Future IT Student in Lithuania
+🎯 Aspiring Software Developer | Future IT Student in South Korea. 
 💻 Passionate about Technology & Coding
 🌍 Dream: To Study IT in the European Union
 
 ### About Me
-I am passionate about learning programming and building my career in IT. My goal is to study Information Technology in Lithuania and become a skilled Software Developer.
+I am passionate about learning programming and building my career in IT. My goal is to study Information Technology in South Korea and become a skilled Software Developer.
 
 ### Skills I am Learning
 - HTML, CSS, JavaScript
