@@ -17,4 +17,4 @@ I am passionate about learning programming and building my career in IT. My goal
 - 🌱 Learning full-stack development
 - 📫 Reach me: Emirhanbey505
 
-> "My dream is to study in Lithuania and work in EU IT industry."
+> "My dream is to study in South Korea and work in EU IT industry."
