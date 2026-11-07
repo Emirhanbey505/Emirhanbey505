@@ -11,6 +11,11 @@ I am passionate about learning programming and building my career in IT. My goal
 - HTML, CSS, JavaScript
 - Git & GitHub
 - Problem Solving
+> *💰 Emir Expense Tracker - PWA & Android App*
+> Live: https://emirhanbey505.github.io/expense-tracker/
+> Tech: HTML, CSS, JavaScript, PWA, TWA (APK)
+> Features: Offline Support, Installable on Android, PKR Currency, Local Storage
+> Built for Ausbildung / Germany Portfolio by Emirhan Bey
 🌐 My Portfolio Website: https://emirhanbey505.github.io/my-first-website/
 ### My Goals
 - 🔭 Currently improving my coding skills
